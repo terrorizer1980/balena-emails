@@ -25,7 +25,7 @@
     "mailchimp-api-v3": "^1.13.1",
     "mjml": "^4.5.1",
     "netlify": "^2.4.8",
-    "rimraf": "^3.0.0"
+    "rimraf": "^3.0.2"
   },
   "versionist": {
     "publishedAt": "2021-10-14T00:06:57.351Z"
