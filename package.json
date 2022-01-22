@@ -22,7 +22,7 @@
     "gulp-size": "^3.0.0",
     "handlebars": "^4.7.6",
     "handlebars-helpers": "^0.10.0",
-    "mailchimp-api-v3": "^1.13.1",
+    "mailchimp-api-v3": "^1.15.0",
     "mjml": "^4.5.1",
     "netlify": "^2.4.8",
     "rimraf": "^3.0.0"
