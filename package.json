@@ -13,7 +13,7 @@
   "author": "Tomás Migone <tomas@balena.io>",
   "license": "Apache-2.0",
   "dependencies": {
-    "browser-sync": "^2.26.13",
+    "browser-sync": "^2.27.8",
     "gulp": "^4.0.2",
     "gulp-copy": "^4.0.1",
     "gulp-hb": "^8.0.0",
