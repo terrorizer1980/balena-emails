@@ -23,7 +23,7 @@
     "handlebars": "^4.7.6",
     "handlebars-helpers": "^0.10.0",
     "mailchimp-api-v3": "^1.13.1",
-    "mjml": "^4.5.1",
+    "mjml": "^4.15.0",
     "netlify": "^2.4.8",
     "rimraf": "^3.0.0"
   },
