@@ -13,8 +13,8 @@
   "author": "Tomás Migone <tomas@balena.io>",
   "license": "Apache-2.0",
   "dependencies": {
-    "browser-sync": "^2.26.13",
-    "gulp": "^4.0.2",
+    "browser-sync": "^3.0.0",
+    "gulp": "^5.0.0",
     "gulp-copy": "^4.0.1",
     "gulp-hb": "^8.0.0",
     "gulp-mjml": "^4.0.2",
@@ -23,8 +23,8 @@
     "handlebars": "^4.7.6",
     "handlebars-helpers": "^0.10.0",
     "mailchimp-api-v3": "^1.13.1",
-    "mjml": "^4.5.1",
-    "netlify": "^2.4.8",
+    "mjml": "^4.15.0",
+    "netlify": "^7.0.0",
     "rimraf": "^3.0.0"
   },
   "versionist": {
